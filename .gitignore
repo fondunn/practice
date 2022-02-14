@@ -1,0 +1,5 @@
+.ideal
+node_modules
+vendors
+.DS_store
+.env
